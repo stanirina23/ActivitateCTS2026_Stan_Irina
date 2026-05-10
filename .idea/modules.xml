@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ActivitateCTS.iml" filepath="$PROJECT_DIR$/ActivitateCTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/PregatireAdapter/PregatireAdapter.iml" filepath="$PROJECT_DIR$/PregatireAdapter/PregatireAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PregatireFacade/PregatireFacade.iml" filepath="$PROJECT_DIR$/PregatireFacade/PregatireFacade.iml" />
       <module fileurl="file://$PROJECT_DIR$/RezPrototype/RezPrototype.iml" filepath="$PROJECT_DIR$/RezPrototype/RezPrototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/RezSubiect/RezSubiect.iml" filepath="$PROJECT_DIR$/RezSubiect/RezSubiect.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
